@@ -1,0 +1,32 @@
+#hr{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+#zurii{
+    position: absolute;
+    left: 250px;
+    padding-bottom: 50px;
+}
+
+#hng{
+    width: 832.28px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #667085;
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+}
+
+#ig{
+    position: absolute;
+    right: 250px;
+    padding-bottom: 50px;
+}

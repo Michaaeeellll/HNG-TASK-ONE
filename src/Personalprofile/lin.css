@@ -1,0 +1,133 @@
+#twitteruser{
+    box-sizing: border-box;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 32px;
+    gap: 8px;
+    width: 1500px;
+    height: 76px;
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+#btn__zuri{
+    box-sizing: border-box;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 32px;
+    gap: 8px;
+    width: 1500px;
+    height: 76px;
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+#books{
+    box-sizing: border-box;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 32px;
+    gap: 8px;
+    width: 1500px;
+    height: 76px;
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+#book__python{
+    box-sizing: border-box;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 32px;
+    gap: 8px;
+    width: 1500px;
+    height: 76px;
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+#pitch{
+    box-sizing: border-box;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 32px;
+    gap: 8px;
+    width: 1500px;
+    height: 76px;
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+#book__design{
+    box-sizing: border-box;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 32px;
+    gap: 8px;
+    width: 1500px;
+    height: 76px;
+    background: #EAECF0;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+.solo{
+    
+    padding-top: 35px;
+    padding-bottom: 100px;
+}
+
+#twitteruser:hover{
+    background-color: #D0D5DD;
+}
+
+#btn__zuri:hover{
+    background-color: #D0D5DD;
+}
+#books:hover{
+    background-color: #D0D5DD;
+}
+#book__python:hover{
+    background-color:  #D0D5DD;
+}
+#pitch:hover{
+    background-color:  #D0D5DD;
+}
+#book__design:hover{
+    background-color:  #D0D5DD;
+}

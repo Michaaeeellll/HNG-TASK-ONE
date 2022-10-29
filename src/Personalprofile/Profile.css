@@ -1,0 +1,18 @@
+#fs{
+    position: absolute;
+    right: 450px;
+    padding-top: 30px;
+}
+
+
+#profile__img{
+    padding-top:  50px;
+    padding-bottom: 20px;
+}
+
+#twitter{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
