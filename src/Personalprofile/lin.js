@@ -19,8 +19,8 @@ export default function Lin() {
             <a href='https://books.zuri.team/design-rules'><button id='book__design'>Design Books</button></a>
       </div>
         <div className='solo'>
-          <img src='/images/slack.svg'/>
-          <img src='/images/github.svg'/>
+          <img src='/images/slack.svg' alt='slack'/>
+          <img src='/images/github.svg' alt='git'/>
         </div>
     </div>
 
